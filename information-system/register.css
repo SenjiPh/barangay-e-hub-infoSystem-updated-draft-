@@ -1,0 +1,31 @@
+hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.button-position {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto 0;
+  padding-top: 2rem;
+}
+
+.form-wrapper {
+  margin-top: 4rem;
+  padding: 4rem;
+  border-radius: 30px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+}
+
+.btn {
+  text-decoration: none;
+  background-color: #1971c2;
+  color: white;
+  padding: 1rem;
+}
+
+.btn:hover {
+  background-color: #1864ab;
+  color: white;
+}
